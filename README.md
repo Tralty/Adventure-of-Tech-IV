@@ -12,10 +12,4 @@ YouTube: https://www.youtube.com/@tralty
 
 Twitch: https://www.twitch.tv/tralty
 
-Twitter/X: https://twitter.com/TheRealTralty
-
 Instagram: https://www.instagram.com/therealtralty/
-
-
-[<img src="https://www.bisecthosting.com/images/CF/Adventure_of_Tech_4/BH_AT4_promo2.webp">](https://bisecthosting.com/gio)
-Enjoy Adventure of Tech IV to the fullest by hosting your game server with BisectHosting. Not only do they offer servers in 20 different locations worldwide, but their decade of expertise guarantees an exceptional gaming experience. Their automated modpack installer and updater makes setting up and maintaining your server a breeze. Plus, their 24/7 support is always there to help you with any inquiries. Use promo code 'gio' and get 25% off your first month as a new customer!
